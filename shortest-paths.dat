@@ -1,0 +1,1000 @@
+Cost is: 0.0 | 0 to 1
+Cost is: 1.0 | 0 to 1 to 2
+Cost is: 3.0 | 0 to 1 to 2 to 3
+Cost is: 5.0 | 0 to 1 to 2 to 4
+Cost is: 9.0 | 0 to 1 to 2 to 4 to 5
+Cost is: 10.754887502163468 | 0 to 1 to 2 to 3 to 6
+Cost is: 16.75488750216347 | 0 to 1 to 2 to 3 to 6 to 7
+Cost is: 17.0 | 0 to 1 to 2 to 4 to 8
+Cost is: 25.0 | 0 to 1 to 2 to 4 to 8 to 9
+Cost is: 25.609640474436812 | 0 to 1 to 2 to 4 to 5 to 10
+Cost is: 35.609640474436816 | 0 to 1 to 2 to 4 to 5 to 10 to 11
+Cost is: 32.2646625064904 | 0 to 1 to 2 to 3 to 6 to 12
+Cost is: 44.2646625064904 | 0 to 1 to 2 to 3 to 6 to 12 to 13
+Cost is: 43.4063719565667 | 0 to 1 to 2 to 3 to 6 to 7 to 14
+Cost is: 57.4063719565667 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15
+Cost is: 49.0 | 0 to 1 to 2 to 4 to 8 to 16
+Cost is: 65.0 | 0 to 1 to 2 to 4 to 8 to 16 to 17
+Cost is: 62.529325012980806 | 0 to 1 to 2 to 4 to 8 to 9 to 18
+Cost is: 80.5293250129808 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19
+Cost is: 68.82892142331043 | 0 to 1 to 2 to 4 to 5 to 10 to 20
+Cost is: 88.82892142331043 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21
+Cost is: 84.6633882794471 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22
+Cost is: 106.6633882794471 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23
+Cost is: 87.28421251514428 | 0 to 1 to 2 to 3 to 6 to 12 to 24
+Cost is: 111.28421251514428 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25
+Cost is: 105.37037884232461 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26
+Cost is: 131.3703788423246 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27
+Cost is: 110.70934086537315 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28
+Cost is: 138.70934086537315 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29
+Cost is: 131.00973089069447 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30
+Cost is: 161.00973089069447 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31
+Cost is: 129.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32
+Cost is: 161.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33
+Cost is: 151.48686830125578 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34
+Cost is: 185.48686830125578 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35
+Cost is: 155.58797503894243 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36
+Cost is: 191.58797503894243 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37
+Cost is: 180.2399477684089 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38
+Cost is: 218.2399477684089 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39
+Cost is: 175.26748332105768 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40
+Cost is: 215.26748332105768 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41
+Cost is: 202.0675873016644 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42
+Cost is: 244.0675873016644 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43
+Cost is: 204.77088388946765 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44
+Cost is: 248.77088388946765 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45
+Cost is: 233.7053132687584 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46
+Cost is: 279.7053132687584 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47
+Cost is: 221.32331253245204 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48
+Cost is: 269.32331253245206 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49
+Cost is: 252.38061725951238 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50
+Cost is: 302.3806172595124 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51
+Cost is: 253.58181151399302 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52
+Cost is: 305.581811513993 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53
+Cost is: 286.75234140073826 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54
+Cost is: 340.75234140073826 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55
+Cost is: 273.31527868298605 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56
+Cost is: 329.31527868298605 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57
+Cost is: 308.59078972407275 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58
+Cost is: 366.59078972407275 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59
+Cost is: 308.21644875895004 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60
+Cost is: 368.21644875895004 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61
+Cost is: 345.58981651268766 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62
+Cost is: 407.58981651268766 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63
+Cost is: 321.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64
+Cost is: 385.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65
+Cost is: 360.465005938829 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66
+Cost is: 426.465005938829 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67
+Cost is: 358.4606049037674 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68
+Cost is: 426.4606049037674 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69
+Cost is: 400.0117738943296 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70
+Cost is: 470.0117738943296 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71
+Cost is: 377.70527509086565 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72
+Cost is: 449.70527509086565 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73
+Cost is: 421.33774956721356 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74
+Cost is: 495.33774956721356 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75
+Cost is: 417.66119327926515 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76
+Cost is: 493.66119327926515 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77
+Cost is: 463.37063430403657 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78
+Cost is: 541.3706343040366 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79
+Cost is: 428.14460711655215 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80
+Cost is: 508.14460711655215 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81
+Cost is: 475.9271155103991 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82
+Cost is: 557.9271155103991 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83
+Cost is: 470.54491905837233 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84
+Cost is: 554.5449190583723 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85
+Cost is: 520.3969717538546 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86
+Cost is: 606.3969717538546 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87
+Cost is: 488.98587510950875 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88
+Cost is: 576.9858751095087 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89
+Cost is: 540.9042732243031 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90
+Cost is: 630.9042732243031 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91
+Cost is: 533.789163247381 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92
+Cost is: 625.789163247381 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93
+Cost is: 587.7709892976073 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94
+Cost is: 681.7709892976073 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95
+Cost is: 537.4015125670676 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96
+Cost is: 633.4015125670676 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97
+Cost is: 593.4440948940972 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98
+Cost is: 691.4440948940972 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99
+Cost is: 584.5734267482486 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100
+Cost is: 684.5734267482486 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101
+Cost is: 642.6743097000588 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102
+Cost is: 744.6743097000588 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103
+Cost is: 602.0046768573299 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104
+Cost is: 706.0046768573299 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105
+Cost is: 662.1615956058426 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106
+Cost is: 768.1615956058426 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107
+Cost is: 651.5162665175656 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108
+Cost is: 759.5162665175656 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109
+Cost is: 713.7271256445945 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110
+Cost is: 823.7271256445945 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111
+Cost is: 654.5271543182118 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112
+Cost is: 766.5271543182118 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113
+Cost is: 718.7900094903764 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114
+Cost is: 832.7900094903764 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115
+Cost is: 706.353687441472 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116
+Cost is: 822.353687441472 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117
+Cost is: 772.6667296364215 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118
+Cost is: 890.6667296364215 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119
+Cost is: 722.6298844954612 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120
+Cost is: 842.6298844954612 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121
+Cost is: 790.9914263502861 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122
+Cost is: 912.9914263502861 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123
+Cost is: 776.749987756674 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124
+Cost is: 900.749987756674 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 125
+Cost is: 847.1584516931824 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126
+Cost is: 973.1584516931824 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 127
+Cost is: 769.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128
+Cost is: 897.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 129
+Cost is: 841.4539078468495 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130
+Cost is: 971.4539078468495 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 131
+Cost is: 825.3950178164869 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132
+Cost is: 957.3950178164869 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 133
+Cost is: 899.8929816994997 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134
+Cost is: 1033.8929816994996 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 135
+Cost is: 840.4080781087905 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136
+Cost is: 976.4080781087905 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 137
+Cost is: 916.9487924214611 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138
+Cost is: 1054.9487924214611 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 139
+Cost is: 899.0615850804774 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140
+Cost is: 1039.0615850804775 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 141
+Cost is: 977.6438193791621 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142
+Cost is: 1119.643819379162 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 143
+Cost is: 893.9398751947122 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144
+Cost is: 1037.9398751947122 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 145
+Cost is: 974.562467889107 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146
+Cost is: 1120.562467889107 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 147
+Cost is: 954.8372986237559 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148
+Cost is: 1102.837298623756 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 149
+Cost is: 1037.4991513544046 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150
+Cost is: 1187.4991513544046 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 151
+Cost is: 968.5036843009777 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152
+Cost is: 1120.5036843009777 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 153
+Cost is: 1053.2037569127726 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154
+Cost is: 1207.2037569127726 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 155
+Cost is: 1031.632007375292 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156
+Cost is: 1187.632007375292 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 157
+Cost is: 1118.3693134100276 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158
+Cost is: 1276.3693134100276 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 159
+Cost is: 1013.8988547075411 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160
+Cost is: 1173.898854707541 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 161
+Cost is: 1102.6724573502067 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162
+Cost is: 1264.6724573502067 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 163
+Cost is: 1079.2463798890822 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164
+Cost is: 1243.2463798890822 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 165
+Cost is: 1170.0553883121938 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166
+Cost is: 1336.0553883121938 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 167
+Cost is: 1091.4995825717883 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168
+Cost is: 1259.4995825717883 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 169
+Cost is: 1184.343148630077 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170
+Cost is: 1354.343148630077 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 171
+Cost is: 1159.055740658235 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172
+Cost is: 1331.055740658235 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 173
+Cost is: 1253.933055892694 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174
+Cost is: 1427.933055892694 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 175
+Cost is: 1145.415857549591 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176
+Cost is: 1321.415857549591 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 177
+Cost is: 1242.3261504655181 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178
+Cost is: 1420.3261504655181 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 179
+Cost is: 1215.171051893974 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180
+Cost is: 1395.171051893974 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 181
+Cost is: 1314.1135854823845 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182
+Cost is: 1496.1135854823845 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 183
+Cost is: 1225.9568632046262 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184
+Cost is: 1409.9568632046262 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 185
+Cost is: 1326.930932680428 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186
+Cost is: 1512.930932680428 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 187
+Cost is: 1297.9023413553052 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188
+Cost is: 1485.9023413553052 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 189
+Cost is: 1400.9072720890474 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190
+Cost is: 1590.9072720890474 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 191
+Cost is: 1265.5579126362986 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192
+Cost is: 1457.5579126362986 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 193
+Cost is: 1370.593058259219 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194
+Cost is: 1564.593058259219 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 195
+Cost is: 1339.6856596173877 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196
+Cost is: 1535.6856596173877 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 197
+Cost is: 1446.7504002819787 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198
+Cost is: 1644.7504002819787 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 199
+Cost is: 1348.9590457257211 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200
+Cost is: 1548.9590457257211 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 201
+Cost is: 1458.05278650618 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202
+Cost is: 1660.05278650618 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 203
+Cost is: 1425.2616945811512 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204
+Cost is: 1629.2616945811512 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 205
+Cost is: 1536.3838639999303 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206
+Cost is: 1742.3838639999303 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 207
+Cost is: 1402.8504075440032 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208
+Cost is: 1610.8504075440032 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 209
+Cost is: 1516.0004562122726 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210
+Cost is: 1726.0004562122726 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 211
+Cost is: 1481.3211637895417 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212
+Cost is: 1693.3211637895417 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 213
+Cost is: 1596.4985631507652 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214
+Cost is: 1810.4985631507652 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 215
+Cost is: 1489.0441167512204 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216
+Cost is: 1705.0441167512204 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 217
+Cost is: 1606.2483579182503 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218
+Cost is: 1824.2483579182503 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 219
+Cost is: 1569.6766941323071 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220
+Cost is: 1789.6766941323071 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 221
+Cost is: 1688.9072868094563 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222
+Cost is: 1910.9072868094563 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 223
+Cost is: 1528.9509055886633 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224
+Cost is: 1752.9509055886633 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 225
+Cost is: 1650.2073770711281 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226
+Cost is: 1876.2073770711281 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 227
+Cost is: 1611.739471105157 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228
+Cost is: 1839.739471105157 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 229
+Cost is: 1735.0213653489795 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230
+Cost is: 1965.0213653489795 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 231
+Cost is: 1617.8794828762702 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232
+Cost is: 1849.8794828762702 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 233
+Cost is: 1743.1863596327303 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234
+Cost is: 1977.1863596327303 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 235
+Cost is: 1702.8186094611187 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236
+Cost is: 1938.8186094611187 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 237
+Cost is: 1830.1500434700667 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238
+Cost is: 2068.1500434700665 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 239
+Cost is: 1671.4567559684833 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240
+Cost is: 1911.4567559684833 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 241
+Cost is: 1800.8123362056872 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242
+Cost is: 2042.8123362056872 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 243
+Cost is: 1758.5413815329584 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244
+Cost is: 2002.5413815329584 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 245
+Cost is: 1889.9207105070127 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246
+Cost is: 2135.9207105070127 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 247
+Cost is: 1763.0703302446468 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248
+Cost is: 2011.0703302446468 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 249
+Cost is: 1896.473023339435 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 125 to 250
+Cost is: 2146.473023339435 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 125 to 250 to 251
+Cost is: 1852.295722054172 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 252
+Cost is: 2104.295722054172 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 252 to 253
+Cost is: 1987.7214069132474 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 127 to 254
+Cost is: 2241.7214069132474 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 127 to 254 to 255
+Cost is: 1793.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 256
+Cost is: 2049.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 256 to 257
+Cost is: 1930.4483159495999 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 129 to 258
+Cost is: 2188.4483159496 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 129 to 258 to 259
+Cost is: 1884.3617235405486 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 260
+Cost is: 2144.3617235405486 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 260 to 261
+Cost is: 2023.8323210482554 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 131 to 262
+Cost is: 2285.8323210482554 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 131 to 262 to 263
+Cost is: 1887.2550415718028 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 264
+Cost is: 2151.255041571803 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 264 to 265
+Cost is: 2028.7475817381453 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 133 to 266
+Cost is: 2294.7475817381455 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 133 to 266 to 267
+Cost is: 1980.748933220841 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 268
+Cost is: 2248.748933220841 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 268 to 269
+Cost is: 2124.263087301362 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 135 to 270
+Cost is: 2394.263087301362 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 135 to 270 to 271
+Cost is: 1940.3030245188365 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 272
+Cost is: 2212.3030245188365 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 272 to 273
+Cost is: 2085.8384734743827 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 137 to 274
+Cost is: 2359.8384734743827 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 137 to 274 to 275
+Cost is: 2035.9251674568486 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 276
+Cost is: 2311.9251674568486 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 276 to 277
+Cost is: 2183.481601530029 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 139 to 278
+Cost is: 2461.481601530029 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 139 to 278 to 279
+Cost is: 2037.161207452773 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 280
+Cost is: 2317.161207452773 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 280 to 281
+Cost is: 2186.7383257687075 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 141 to 282
+Cost is: 2468.7383257687075 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 141 to 282 to 283
+Cost is: 2134.9079103488266 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 284
+Cost is: 2418.9079103488266 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 284 to 285
+Cost is: 2286.5054205384718 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 143 to 286
+Cost is: 2572.5054205384718 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 143 to 286 to 287
+Cost is: 2070.409075402405 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 288
+Cost is: 2358.409075402405 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 288 to 289
+Cost is: 2224.0266932468776 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 145 to 290
+Cost is: 2514.0266932468776 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 145 to 290 to 291
+Cost is: 2170.2768534855895 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 292
+Cost is: 2462.2768534855895 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 292 to 293
+Cost is: 2325.9143025800527 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 147 to 294
+Cost is: 2619.9143025800527 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 147 to 294 to 295
+Cost is: 2169.8363967368405 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 296
+Cost is: 2465.8363967368405 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 296 to 297
+Cost is: 2327.493408172618 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 149 to 298
+Cost is: 2625.493408172618 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 149 to 298 to 299
+Cost is: 2271.821954928787 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 300
+Cost is: 2571.821954928787 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 300 to 301
+Cost is: 2431.498266992492 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 151 to 302
+Cost is: 2733.498266992492 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 151 to 302 to 303
+Cost is: 2222.188666344403 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 304
+Cost is: 2526.188666344403 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 304 to 305
+Cost is: 2383.8840242329534 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 153 to 306
+Cost is: 2689.8840242329534 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 153 to 306 to 307
+Cost is: 2326.2888841797876 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 308
+Cost is: 2634.2888841797876 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 308 to 309
+Cost is: 2490.00303973028 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 155 to 310
+Cost is: 2800.00303973028 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 155 to 310 to 311
+Cost is: 2324.154753517803 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 312
+Cost is: 2636.154753517803 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 312 to 313
+Cost is: 2489.8874649512773 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 157 to 314
+Cost is: 2803.8874649512773 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 157 to 314 to 315
+Cost is: 2430.36667162201 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 316
+Cost is: 2746.36667162201 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 316 to 317
+Cost is: 2598.11770330024 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 159 to 318
+Cost is: 2916.11770330024 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 159 to 318 to 319
+Cost is: 2345.407349889519 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 320
+Cost is: 2665.407349889519 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 320 to 321
+Cost is: 2515.1764720839947 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 161 to 322
+Cost is: 2837.1764720839947 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 161 to 322 to 323
+Cost is: 2453.728157817516 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 324
+Cost is: 2777.728157817516 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 324 to 325
+Cost is: 2625.5151464898727 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 163 to 326
+Cost is: 2951.5151464898727 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 163 to 326 to 327
+Cost is: 2449.884908646448 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 328
+Cost is: 2777.884908646448 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 328 to 329
+Cost is: 2623.689545239642 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 165 to 330
+Cost is: 2953.689545239642 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 165 to 330 to 331
+Cost is: 2560.3119339157834 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 332
+Cost is: 2892.3119339157834 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 332 to 333
+Cost is: 2736.1340051553607 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 167 to 334
+Cost is: 3070.1340051553607 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 167 to 334 to 335
+Cost is: 2501.40890959862 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 336
+Cost is: 2837.40890959862 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 336 to 337
+Cost is: 2679.2482073034776 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 169 to 338
+Cost is: 3017.2482073034776 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 169 to 338 to 339
+Cost is: 2613.9396077734864 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 340
+Cost is: 2953.9396077734864 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 340 to 341
+Cost is: 2793.795928675566 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 171 to 342
+Cost is: 3135.795928675566 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 171 to 342 to 343
+Cost is: 2608.3732784669955 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 344
+Cost is: 2952.3732784669955 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 344 to 345
+Cost is: 2790.2464240393883 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 173 to 346
+Cost is: 3136.2464240393883 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 173 to 346 to 347
+Cost is: 2723.005224170373 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 348
+Cost is: 3071.005224170373 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 348 to 349
+Cost is: 2906.8950004633516 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 175 to 350
+Cost is: 3256.8950004633516 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 175 to 350 to 351
+Cost is: 2634.275822429755 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 352
+Cost is: 2986.275822429755 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 352 to 353
+Cost is: 2820.1820399142816 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 177 to 354
+Cost is: 3174.1820399142816 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 177 to 354 to 355
+Cost is: 2751.006701177537 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 356
+Cost is: 3107.006701177537 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 356 to 357
+Cost is: 2938.92917459582 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 179 to 358
+Cost is: 3296.92917459582 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 179 to 358 to 359
+Cost is: 2743.7046092333153 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 360
+Cost is: 3103.7046092333153 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 360 to 361
+Cost is: 2933.6431574560343 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 181 to 362
+Cost is: 3295.6431574560343 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 181 to 362 to 363
+Cost is: 2862.532209998547 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 364
+Cost is: 3226.532209998547 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 364 to 365
+Cost is: 3054.486655888364 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 183 to 366
+Cost is: 3420.486655888364 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 183 to 366 to 367
+Cost is: 2794.2922631191163 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 368
+Cost is: 3162.2922631191163 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 368 to 369
+Cost is: 2988.262433400144 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 185 to 370
+Cost is: 3358.262433400144 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 185 to 370 to 371
+Cost is: 2915.214471546522 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 372
+Cost is: 3287.214471546522 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 372 to 373
+Cost is: 3111.200196679416 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 187 to 374
+Cost is: 3485.200196679416 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 187 to 374 to 375
+Cost is: 2906.165045470701 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 376
+Cost is: 3282.165045470701 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 376 to 377
+Cost is: 3104.166159533088 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 189 to 378
+Cost is: 3482.166159533088 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 189 to 378 to 379
+Cost is: 3029.179837671927 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 380
+Cost is: 3409.179837671927 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 380 to 381
+Cost is: 3229.1961782438757 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 191 to 382
+Cost is: 3611.1961782438757 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 191 to 382 to 383
+Cost is: 2913.8707127747607 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 384
+Cost is: 3297.8707127747607 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 384 to 385
+Cost is: 3115.902120829038 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 193 to 386
+Cost is: 3501.902120829038 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 193 to 386 to 387
+Cost is: 3038.9761496435217 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 388
+Cost is: 3426.9761496435217 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 388 to 389
+Cost is: 3243.0224694403933 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 195 to 390
+Cost is: 3633.0224694403933 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 195 to 390 to 391
+Cost is: 3028.1687890639687 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 392
+Cost is: 3420.1687890639687 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 392 to 393
+Cost is: 3234.229868050294 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 197 to 394
+Cost is: 3628.229868050294 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 197 to 394 to 395
+Cost is: 3155.3630110577415 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 396
+Cost is: 3551.3630110577415 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 396 to 397
+Cost is: 3363.438699770165 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 199 to 398
+Cost is: 3761.438699770165 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 199 to 398 to 399
+Cost is: 3077.7302836806657 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 400
+Cost is: 3477.7302836806657 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 400 to 401
+Cost is: 3287.820435652686 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 201 to 402
+Cost is: 3689.820435652686 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 201 to 402 to 403
+Cost is: 3207.0115060220423 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 404
+Cost is: 3611.0115060220423 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 404 to 405
+Cost is: 3419.1159776947707 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 203 to 406
+Cost is: 3825.1159776947707 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 203 to 406 to 407
+Cost is: 3194.4364643433364 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 408
+Cost is: 3602.4364643433364 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 408 to 409
+Cost is: 3408.555114979768 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 205 to 410
+Cost is: 3818.555114979768 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 205 to 410 to 411
+Cost is: 3325.802972599673 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 412
+Cost is: 3737.802972599673 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 412 to 413
+Cost is: 3541.9356642022904 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 207 to 414
+Cost is: 3955.9356642022904 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 207 to 414 to 415
+Cost is: 3212.5418689173503 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 416
+Cost is: 3628.5418689173503 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 416 to 417
+Cost is: 3430.6884661489075 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 209 to 418
+Cost is: 3848.6884661489075 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 209 to 418 to 419
+Cost is: 3345.992014922158 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 420
+Cost is: 3765.992014922158 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 420 to 421
+Cost is: 3566.152385029489 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 211 to 422
+Cost is: 3988.152385029489 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 211 to 422 to 423
+Cost is: 3331.64030015694 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 424
+Cost is: 3755.64030015694 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 424 to 425
+Cost is: 3553.8143128976453 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 213 to 426
+Cost is: 3979.8143128976453 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 213 to 426 to 427
+Cost is: 3467.1724982406104 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 428
+Cost is: 3895.1724982406104 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 428 to 429
+Cost is: 3691.360025812499 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 215 to 430
+Cost is: 4121.360025812499 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 215 to 430 to 431
+Cost is: 3380.09981721853 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 432
+Cost is: 3812.09981721853 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 432 to 433
+Cost is: 3606.3007341916723 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 217 to 434
+Cost is: 4040.3007341916723 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 217 to 434 to 435
+Cost is: 3517.71254071962 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 436
+Cost is: 3953.71254071962 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 436 to 437
+Cost is: 3745.9267239709075 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 219 to 438
+Cost is: 4183.926723970908 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 219 to 438 to 439
+Cost is: 3501.5758311077325 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 440
+Cost is: 3941.5758311077325 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 440 to 441
+Cost is: 3731.803159757814 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 221 to 442
+Cost is: 4173.803159757814 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 221 to 442 to 443
+Cost is: 3641.26760913918 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 444
+Cost is: 4085.26760913918 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 444 to 445
+Cost is: 3873.507964491684 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 223 to 446
+Cost is: 4319.507964491684 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 223 to 446 to 447
+Cost is: 3501.7984081295663 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 448
+Cost is: 3949.7984081295663 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 448 to 449
+Cost is: 3736.0516736124964 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 225 to 450
+Cost is: 4186.051673612496 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 225 to 450 to 451
+Cost is: 3643.5678225769607 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 452
+Cost is: 4095.5678225769607 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 452 to 453
+Cost is: 3879.833883686166 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 227 to 454
+Cost is: 4333.833883686166 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 227 to 454 to 455
+Cost is: 3625.638394334718 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 456
+Cost is: 4081.638394334718 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 456 to 457
+Cost is: 3863.9171385793575 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 229 to 458
+Cost is: 4321.917138579358 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 229 to 458 to 459
+Cost is: 3769.484077066186 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 460
+Cost is: 4229.484077066186 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 460 to 461
+Cost is: 4009.7753939160884 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 231 to 462
+Cost is: 4471.775393916088 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 231 to 462 to 463
+Cost is: 3672.9310737458673 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 464
+Cost is: 4136.931073745867 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 464 to 465
+Cost is: 3915.2348545807176 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 233 to 466
+Cost is: 4381.234854580718 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 233 to 466 to 467
+Cost is: 3818.851704015247 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 468
+Cost is: 4286.851704015247 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 468 to 469
+Cost is: 4063.1678420755056 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 235 to 470
+Cost is: 4533.167842075505 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 235 to 470 to 471
+Cost is: 3799.122369110514 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 472
+Cost is: 4271.122369110513 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 472 to 473
+Cost is: 4045.4507594500064 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 237 to 474
+Cost is: 4519.450759450006 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 237 to 474 to 475
+Cost is: 3947.116671137357 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 476
+Cost is: 4423.116671137357 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 476 to 477
+Cost is: 4195.457210577466 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 239 to 478
+Cost is: 4673.457210577466 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 239 to 478 to 479
+Cost is: 3809.110498914528 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 480
+Cost is: 4289.110498914528 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 480 to 481
+Cost is: 4059.4630859999043 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 241 to 482
+Cost is: 4541.463085999904 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 241 to 482 to 483
+Cost is: 3959.1772396261395 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 484
+Cost is: 4443.177239626139 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 484 to 485
+Cost is: 4211.541774581892 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 243 to 486
+Cost is: 4697.541774581892 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 243 to 486 to 487
+Cost is: 3937.641291898303 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 488
+Cost is: 4425.641291898302 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 488 to 489
+Cost is: 4192.017676588589 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 245 to 490
+Cost is: 4682.017676588589 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 245 to 490 to 491
+Cost is: 4089.7792788204656 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 492
+Cost is: 4581.779278820466 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 492 to 493
+Cost is: 4346.1674167084275 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 247 to 494
+Cost is: 4840.1674167084275 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 247 to 494 to 495
+Cost is: 3983.7110152205923 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 496
+Cost is: 4479.711015220592 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 496 to 497
+Cost is: 4242.1108113295995 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 249 to 498
+Cost is: 4740.1108113295995 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 249 to 498 to 499
+Cost is: 4137.919094504957 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 125 to 250 to 500
+Cost is: 4637.919094504957 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 125 to 250 to 500 to 501
+Cost is: 4398.3304553810785 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 125 to 250 to 251 to 502
+Cost is: 4900.3304553810785 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 125 to 250 to 251 to 502 to 503
+Cost is: 4114.570262776151 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 252 to 504
+Cost is: 4618.570262776151 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 252 to 504 to 505
+Cost is: 4376.993096451833 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 252 to 253 to 506
+Cost is: 4882.993096451833 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 252 to 253 to 506 to 507
+Cost is: 4270.8473173533785 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 127 to 254 to 508
+Cost is: 4778.8473173533785 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 127 to 254 to 508 to 509
+Cost is: 4535.281533312256 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 127 to 254 to 255 to 510
+Cost is: 5045.281533312256 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 63 to 126 to 127 to 254 to 255 to 510 to 511
+Cost is: 4097.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 256 to 512
+Cost is: 4609.0 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 256 to 512 to 513
+Cost is: 4363.445509142826 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 256 to 257 to 514
+Cost is: 4877.445509142826 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 256 to 257 to 514 to 515
+Cost is: 4255.3449478488 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 129 to 258 to 516
+Cost is: 4771.3449478488 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 129 to 258 to 516 to 517
+Cost is: 4523.801662460417 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 129 to 258 to 259 to 518
+Cost is: 5041.801662460417 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 128 to 129 to 258 to 259 to 518 to 519
+Cost is: 4230.177354927947 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 260 to 520
+Cost is: 4750.177354927947 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 260 to 520 to 521
+Cost is: 4500.645188645289 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 260 to 261 to 522
+Cost is: 5022.645188645289 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 260 to 261 to 522 to 523
+Cost is: 4390.589147451067 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 131 to 262 to 524
+Cost is: 4914.589147451067 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 131 to 262 to 524 to 525
+Cost is: 4663.068015232131 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 131 to 262 to 263 to 526
+Cost is: 5189.068015232131 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 64 to 65 to 130 to 131 to 262 to 263 to 526 to 527
+Cost is: 4274.975089082434 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 264 to 528
+Cost is: 4802.975089082434 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 264 to 528 to 529
+Cost is: 4549.464907176201 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 264 to 265 to 530
+Cost is: 5079.464907176201 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 264 to 265 to 530 to 531
+Cost is: 4437.452709581462 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 133 to 266 to 532
+Cost is: 4969.452709581462 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 133 to 266 to 532 to 533
+Cost is: 4713.953395498723 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 133 to 266 to 267 to 534
+Cost is: 5247.953395498723 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 132 to 133 to 266 to 267 to 534 to 535
+Cost is: 4410.4608362635245 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 268 to 536
+Cost is: 4946.4608362635245 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 268 to 536 to 537
+Cost is: 4688.972308748573 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 268 to 269 to 538
+Cost is: 5226.972308748573 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 268 to 269 to 538 to 539
+Cost is: 4575.003298505086 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 135 to 270 to 540
+Cost is: 5115.003298505086 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 135 to 270 to 540 to 541
+Cost is: 4855.525477508261 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 135 to 270 to 271 to 542
+Cost is: 5397.525477508261 | 0 to 1 to 2 to 4 to 8 to 16 to 32 to 33 to 66 to 67 to 134 to 135 to 270 to 271 to 542 to 543
+Cost is: 4412.092917338929 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 272 to 544
+Cost is: 4956.092917338929 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 272 to 544 to 545
+Cost is: 4694.625723989957 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 272 to 273 to 546
+Cost is: 5240.625723989957 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 272 to 273 to 546 to 547
+Cost is: 4578.699264205567 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 137 to 274 to 548
+Cost is: 5126.699264205567 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 137 to 274 to 548 to 549
+Cost is: 4863.242620787689 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 137 to 274 to 275 to 550
+Cost is: 5413.242620787689 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 136 to 137 to 274 to 275 to 550 to 551
+Cost is: 4549.877917527623 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 276 to 552
+Cost is: 5101.877917527623 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 276 to 552 to 553
+Cost is: 4836.431747452474 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 276 to 277 to 554
+Cost is: 5390.431747452474 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 276 to 277 to 554 to 555
+Cost is: 4718.547219747164 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 139 to 278 to 556
+Cost is: 5274.547219747164 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 139 to 278 to 556 to 557
+Cost is: 5007.111447530372 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 139 to 278 to 279 to 558
+Cost is: 5565.111447530372 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 68 to 69 to 138 to 139 to 278 to 279 to 558 to 559
+Cost is: 4593.360452197363 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 280 to 560
+Cost is: 5153.360452197363 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 280 to 560 to 561
+Cost is: 4883.935003434854 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 280 to 281 to 562
+Cost is: 5445.935003434854 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 280 to 281 to 562 to 563
+Cost is: 4764.091807145167 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 141 to 282 to 564
+Cost is: 5328.091807145167 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 141 to 282 to 564 to 565
+Cost is: 5056.67660849013 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 141 to 282 to 283 to 566
+Cost is: 5622.67660849013 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 140 to 141 to 282 to 283 to 566 to 567
+Cost is: 4733.436092288157 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 284 to 568
+Cost is: 5301.436092288157 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 284 to 568 to 569
+Cost is: 5028.031071428677 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 284 to 285 to 570
+Cost is: 5598.031071428677 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 284 to 285 to 570 to 571
+Cost is: 4906.228622857091 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 143 to 286 to 572
+Cost is: 5478.228622857091 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 143 to 286 to 572 to 573
+Cost is: 5202.833708494394 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 143 to 286 to 287 to 574
+Cost is: 5776.833708494394 | 0 to 1 to 2 to 4 to 8 to 16 to 17 to 34 to 35 to 70 to 71 to 142 to 143 to 286 to 287 to 574 to 575
+Cost is: 4711.347475817791 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 288 to 576
+Cost is: 5287.347475817791 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 288 to 576 to 577
+Cost is: 5009.962597645102 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 288 to 289 to 578
+Cost is: 5587.962597645102 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 288 to 289 to 578 to 579
+Cost is: 4886.200329351208 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 145 to 290 to 580
+Cost is: 5466.200329351208 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 145 to 290 to 580 to 581
+Cost is: 5186.825418033188 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 145 to 290 to 291 to 582
+Cost is: 5768.825418033188 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 144 to 145 to 290 to 291 to 582 to 583
+Cost is: 4853.705624678554 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 292 to 584
+Cost is: 5437.705624678554 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 292 to 584 to 585
+Cost is: 5156.340611831309 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 292 to 293 to 586
+Cost is: 5742.340611831309 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 292 to 293 to 586 to 587
+Cost is: 5030.617971961943 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 147 to 294 to 588
+Cost is: 5618.617971961943 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 147 to 294 to 588 to 589
+Cost is: 5335.262790133567 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 147 to 294 to 295 to 590
+Cost is: 5925.262790133567 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 72 to 73 to 146 to 147 to 294 to 295 to 590 to 591
+Cost is: 4895.8345929630095 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 296 to 592
+Cost is: 5487.8345929630095 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 296 to 592 to 593
+Cost is: 5202.489175614668 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 296 to 297 to 594
+Cost is: 5796.489175614668 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 296 to 297 to 594 to 595
+Cost is: 5074.805627270342 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 149 to 298 to 596
+Cost is: 5670.805627270342 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 149 to 298 to 596 to 597
+Cost is: 5383.469908757852 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 149 to 298 to 299 to 598
+Cost is: 5981.469908757852 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 148 to 149 to 298 to 299 to 598 to 599
+Cost is: 5040.4675620775515 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 300 to 600
+Cost is: 5640.4675620775515 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 300 to 600 to 601
+Cost is: 5351.141477633457 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 300 to 301 to 602
+Cost is: 5953.141477633457 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 300 to 301 to 602 to 603
+Cost is: 5221.496498268665 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 151 to 302 to 604
+Cost is: 5825.496498268665 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 151 to 302 to 604 to 605
+Cost is: 5534.179983984795 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 151 to 302 to 303 to 606
+Cost is: 6140.179983984795 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 36 to 37 to 74 to 75 to 150 to 151 to 302 to 303 to 606 to 607
+Cost is: 5033.558630431253 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 304 to 608
+Cost is: 5641.558630431253 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 304 to 608 to 609
+Cost is: 5348.251623241729 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 304 to 305 to 610
+Cost is: 5958.251623241729 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 304 to 305 to 610 to 611
+Cost is: 5216.644704096905 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 153 to 306 to 612
+Cost is: 5828.644704096905 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 153 to 306 to 612 to 613
+Cost is: 5533.347141761598 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 153 to 306 to 307 to 614
+Cost is: 6147.347141761598 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 152 to 153 to 306 to 307 to 614 to 615
+Cost is: 5180.459138713817 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 308 to 616
+Cost is: 5796.459138713817 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 308 to 616 to 617
+Cost is: 5499.170959802239 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 308 to 309 to 618
+Cost is: 6117.170959802239 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 308 to 309 to 618 to 619
+Cost is: 5365.601605365294 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 155 to 310 to 620
+Cost is: 5985.601605365294 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 155 to 310 to 620 to 621
+Cost is: 5686.322749240897 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 155 to 310 to 311 to 622
+Cost is: 6308.322749240897 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 76 to 77 to 154 to 155 to 310 to 311 to 622 to 623
+Cost is: 5221.200245802825 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 312 to 624
+Cost is: 5845.200245802825 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 312 to 624 to 625
+Cost is: 5543.930652607713 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 312 to 313 to 626
+Cost is: 6169.930652607713 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 312 to 313 to 626 to 627
+Cost is: 5408.398380103248 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 157 to 314 to 628
+Cost is: 6036.398380103248 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 157 to 314 to 628 to 629
+Cost is: 5733.13799074327 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 157 to 314 to 315 to 630
+Cost is: 6363.13799074327 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 156 to 157 to 314 to 315 to 630 to 631
+Cost is: 5370.361388045974 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 316 to 632
+Cost is: 6002.361388045974 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 316 to 632 to 633
+Cost is: 5697.110144176202 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 316 to 317 to 634
+Cost is: 6331.110144176202 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 316 to 317 to 634 to 635
+Cost is: 5559.614483080665 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 159 to 318 to 636
+Cost is: 6195.614483080665 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 159 to 318 to 636 to 637
+Cost is: 5888.372327091233 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 159 to 318 to 319 to 638
+Cost is: 6526.372327091233 | 0 to 1 to 2 to 4 to 8 to 9 to 18 to 19 to 38 to 39 to 78 to 79 to 158 to 159 to 318 to 319 to 638 to 639
+Cost is: 5328.424340253475 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 320 to 640
+Cost is: 5968.424340253475 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 320 to 640 to 641
+Cost is: 5659.191215255778 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 320 to 321 to 642
+Cost is: 6301.191215255778 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 320 to 321 to 642 to 643
+Cost is: 5519.731706836901 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 161 to 322 to 644
+Cost is: 6163.731706836901 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 161 to 322 to 644 to 645
+Cost is: 5852.507556650133 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 161 to 322 to 323 to 646
+Cost is: 6498.507556650133 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 160 to 161 to 322 to 323 to 646 to 647
+Cost is: 5479.8395587521345 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 324 to 648
+Cost is: 6127.8395587521345 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 324 to 648 to 649
+Cost is: 5814.624327890157 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 324 to 325 to 650
+Cost is: 6464.624327890157 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 324 to 325 to 650 to 651
+Cost is: 5673.200524769203 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 163 to 326 to 652
+Cost is: 6325.200524769203 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 163 to 326 to 652 to 653
+Cost is: 6009.994158427746 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 163 to 326 to 327 to 654
+Cost is: 6663.994158427746 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 80 to 81 to 162 to 163 to 326 to 327 to 654 to 655
+Cost is: 5519.161966161179 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 328 to 656
+Cost is: 6175.161966161179 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 328 to 656 to 657
+Cost is: 5857.964410205343 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 328 to 329 to 658
+Cost is: 6515.964410205343 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 328 to 329 to 658 to 659
+Cost is: 5714.575875940762 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 165 to 330 to 660
+Cost is: 6374.575875940762 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 165 to 330 to 660 to 661
+Cost is: 6055.387076892831 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 165 to 330 to 331 to 662
+Cost is: 6717.387076892831 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 164 to 165 to 330 to 331 to 662 to 663
+Cost is: 5672.825025122962 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 332 to 664
+Cost is: 6336.825025122962 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 332 to 664 to 665
+Cost is: 6015.6449301505145 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 332 to 333 to 666
+Cost is: 6681.6449301505145 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 332 to 333 to 666 to 667
+Cost is: 5870.291238841694 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 167 to 334 to 668
+Cost is: 6538.291238841694 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 167 to 334 to 668 to 669
+Cost is: 6215.119795745981 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 167 to 334 to 335 to 670
+Cost is: 6885.119795745981 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 40 to 41 to 82 to 83 to 166 to 167 to 334 to 335 to 670 to 671
+Cost is: 5657.227563652284 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 336 to 672
+Cost is: 6329.227563652284 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 336 to 672 to 673
+Cost is: 6004.064720856906 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 336 to 337 to 674
+Cost is: 6678.064720856906 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 336 to 337 to 674 to 675
+Cost is: 5856.745456766856 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 169 to 338 to 676
+Cost is: 6532.745456766856 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 169 to 338 to 676 to 677
+Cost is: 6205.591163306698 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 169 to 338 to 339 to 678
+Cost is: 6883.591163306698 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 168 to 169 to 338 to 339 to 678 to 679
+Cost is: 5813.132526060305 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 340 to 680
+Cost is: 6493.132526060305 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 340 to 680 to 681
+Cost is: 6163.986731570729 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 340 to 341 to 682
+Cost is: 6845.986731570729 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 340 to 341 to 682 to 683
+Cost is: 6014.701488766543 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 171 to 342 to 684
+Cost is: 6698.701488766543 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 171 to 342 to 684 to 685
+Cost is: 6367.56414347284 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 171 to 342 to 343 to 686
+Cost is: 7053.56414347284 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 84 to 85 to 170 to 171 to 342 to 343 to 686 to 687
+Cost is: 5851.008354084517 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 344 to 688
+Cost is: 6539.008354084517 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 344 to 688 to 689
+Cost is: 6205.879408791604 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 344 to 345 to 690
+Cost is: 6895.879408791604 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 344 to 345 to 690 to 691
+Cost is: 6054.6277908016955 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 173 to 346 to 692
+Cost is: 6746.6277908016955 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 173 to 346 to 692 to 693
+Cost is: 6411.507196884045 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 173 to 346 to 347 to 694
+Cost is: 7105.507196884045 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 172 to 173 to 346 to 347 to 694 to 695
+Cost is: 6009.149560725731 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 348 to 696
+Cost is: 6705.149560725731 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 348 to 696 to 697
+Cost is: 6368.037270117542 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 348 to 349 to 698
+Cost is: 7066.037270117542 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 348 to 349 to 698 to 699
+Cost is: 6214.818889604667 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 175 to 350 to 700
+Cost is: 6914.818889604667 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 175 to 350 to 700 to 701
+Cost is: 6575.7148547902525 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 175 to 350 to 351 to 702
+Cost is: 7277.7148547902525 | 0 to 1 to 2 to 4 to 5 to 10 to 20 to 21 to 42 to 43 to 86 to 87 to 174 to 175 to 350 to 351 to 702 to 703
+Cost is: 5963.995752190083 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 352 to 704
+Cost is: 6667.995752190083 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 352 to 704 to 705
+Cost is: 6326.899926194482 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 352 to 353 to 706
+Cost is: 7032.899926194482 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 352 to 353 to 706 to 707
+Cost is: 6171.714404643662 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 177 to 354 to 708
+Cost is: 6879.714404643662 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 177 to 354 to 708 to 709
+Cost is: 6536.626741023458 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 177 to 354 to 355 to 710
+Cost is: 7246.626741023458 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 176 to 177 to 354 to 355 to 710 to 711
+Cost is: 6124.367802601575 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 356 to 712
+Cost is: 6836.367802601575 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 356 to 712 to 713
+Cost is: 6491.288255435926 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 356 to 357 to 714
+Cost is: 7205.288255435926 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 356 to 357 to 714 to 715
+Cost is: 6334.135222856424 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 179 to 358 to 716
+Cost is: 7050.135222856424 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 179 to 358 to 716 to 717
+Cost is: 6703.063746738295 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 179 to 358 to 359 to 718
+Cost is: 7421.063746738295 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 88 to 89 to 178 to 179 to 358 to 359 to 718 to 719
+Cost is: 6160.771723911998 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 360 to 720
+Cost is: 6880.771723911998 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 360 to 720 to 721
+Cost is: 6531.708273939584 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 360 to 361 to 722
+Cost is: 7253.708273939584 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 360 to 361 to 722 to 723
+Cost is: 6372.587368580154 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 181 to 362 to 724
+Cost is: 7096.587368580154 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 181 to 362 to 724 to 725
+Cost is: 6745.531900348492 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 181 to 362 to 363 to 726
+Cost is: 7471.531900348492 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 180 to 181 to 362 to 363 to 726 to 727
+Cost is: 6323.369459030872 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 364 to 728
+Cost is: 7051.369459030872 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 364 to 728 to 729
+Cost is: 6698.32192862364 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 364 to 365 to 730
+Cost is: 7428.32192862364 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 364 to 365 to 730 to 731
+Cost is: 6537.232796700324 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 183 to 366 to 732
+Cost is: 7269.232796700324 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 183 to 366 to 732 to 733
+Cost is: 6914.193160681823 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 183 to 366 to 367 to 734
+Cost is: 7648.193160681823 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 44 to 45 to 90 to 91 to 182 to 183 to 366 to 367 to 734 to 735
+Cost is: 6298.963062948098 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 368 to 736
+Cost is: 7034.963062948098 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 368 to 736 to 737
+Cost is: 6677.931278355402 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 368 to 369 to 738
+Cost is: 7415.931278355402 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 368 to 369 to 738 to 739
+Cost is: 6514.873573791179 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 185 to 370 to 740
+Cost is: 7254.873573791179 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 185 to 370 to 740 to 741
+Cost is: 6895.849598126461 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 185 to 370 to 371 to 742
+Cost is: 7637.849598126461 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 184 to 185 to 370 to 371 to 742 to 743
+Cost is: 6463.7815492787095 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 372 to 744
+Cost is: 7207.7815492787095 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 372 to 744 to 745
+Cost is: 6846.765340501726 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 372 to 373 to 746
+Cost is: 7592.765340501726 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 372 to 373 to 746 to 747
+Cost is: 6681.738724677392 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 187 to 374 to 748
+Cost is: 7429.738724677392 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 187 to 374 to 748 to 749
+Cost is: 7066.730241198133 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 187 to 374 to 375 to 750
+Cost is: 7816.730241198133 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 92 to 93 to 186 to 187 to 374 to 375 to 750 to 751
+Cost is: 6498.6904537014925 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 376 to 752
+Cost is: 7250.6904537014925 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 376 to 752 to 753
+Cost is: 6885.689654372987 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 376 to 377 to 754
+Cost is: 7639.689654372987 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 376 to 377 to 754 to 755
+Cost is: 6718.693795888654 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 189 to 378 to 756
+Cost is: 7474.693795888654 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 189 to 378 to 756 to 757
+Cost is: 7107.700639999932 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 189 to 378 to 379 to 758
+Cost is: 7865.700639999932 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 188 to 189 to 378 to 379 to 758 to 759
+Cost is: 6665.724968837688 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 380 to 760
+Cost is: 7425.724968837688 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 380 to 760 to 761
+Cost is: 7056.739416106883 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 380 to 381 to 762
+Cost is: 7818.739416106883 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 380 to 381 to 762 to 763
+Cost is: 6887.773990553532 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 191 to 382 to 764
+Cost is: 7651.773990553532 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 191 to 382 to 764 to 765
+Cost is: 7280.796001121134 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 191 to 382 to 383 to 766
+Cost is: 8046.796001121134 | 0 to 1 to 2 to 4 to 5 to 10 to 11 to 22 to 23 to 46 to 47 to 94 to 95 to 190 to 191 to 382 to 383 to 766 to 767
+Cost is: 6594.496313051684 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 384 to 768
+Cost is: 7362.496313051684 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 384 to 768 to 769
+Cost is: 6989.525847473933 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 384 to 385 to 770
+Cost is: 7759.525847473933 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 384 to 385 to 770 to 771
+Cost is: 6818.590537214517 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 193 to 386 to 772
+Cost is: 7590.590537214517 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 193 to 386 to 772 to 773
+Cost is: 7215.627556456924 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 193 to 386 to 387 to 774
+Cost is: 7989.627556456924 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 192 to 193 to 386 to 387 to 774 to 775
+Cost is: 6763.742332412128 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 388 to 776
+Cost is: 7539.742332412128 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 388 to 776 to 777
+Cost is: 7162.7867978431495 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 388 to 389 to 778
+Cost is: 7940.7867978431495 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 388 to 389 to 778 to 779
+Cost is: 6989.8812918027415 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 195 to 390 to 780
+Cost is: 7769.8812918027415 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 195 to 390 to 780 to 781
+Cost is: 7390.933165187568 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 195 to 390 to 391 to 782
+Cost is: 8172.933165187568 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 96 to 97 to 194 to 195 to 390 to 391 to 782 to 783
+Cost is: 6797.13504795713 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 392 to 784
+Cost is: 7581.13504795713 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 392 to 784 to 785
+Cost is: 7200.1942914516 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 392 to 393 to 786
+Cost is: 7986.1942914516 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 392 to 393 to 786 to 787
+Cost is: 7025.318284916107 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 197 to 394 to 788
+Cost is: 7813.318284916107 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 197 to 394 to 788 to 789
+Cost is: 7430.384861060758 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 197 to 394 to 395 to 790
+Cost is: 8220.384861060758 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 196 to 197 to 394 to 395 to 790 to 791
+Cost is: 6968.588232609267 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 396 to 792
+Cost is: 7760.588232609267 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 396 to 792 to 793
+Cost is: 7375.662104323496 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 396 to 397 to 794
+Cost is: 8169.662104323496 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 396 to 397 to 794 to 795
+Cost is: 7198.815298746537 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 199 to 398 to 796
+Cost is: 7994.815298746537 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 199 to 398 to 796 to 797
+Cost is: 7607.896429322882 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 199 to 398 to 399 to 798
+Cost is: 8405.896429322882 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 48 to 49 to 98 to 99 to 198 to 199 to 398 to 399 to 798 to 799
+Cost is: 6935.272759590556 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 400 to 800
+Cost is: 7735.272759590556 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 400 to 800 to 801
+Cost is: 7346.361112689089 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 400 to 401 to 802
+Cost is: 8148.361112689089 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 400 to 401 to 802 to 803
+Cost is: 7167.5432155066155 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 201 to 402 to 804
+Cost is: 7971.5432155066155 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 201 to 402 to 804 to 805
+Cost is: 7580.638755149457 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 201 to 402 to 403 to 806
+Cost is: 8386.638755149457 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 200 to 201 to 402 to 403 to 806 to 807
+Cost is: 7108.928945053767 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 404 to 808
+Cost is: 7916.928945053767 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 404 to 808 to 809
+Cost is: 7524.031635619696 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 404 to 405 to 810
+Cost is: 8334.031635619696 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 404 to 405 to 810 to 811
+Cost is: 7343.242360071952 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 203 to 406 to 812
+Cost is: 8155.242360071952 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 203 to 406 to 812 to 813
+Cost is: 7760.3521662911335 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 203 to 406 to 407 to 814
+Cost is: 8574.352166291133 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 100 to 101 to 202 to 203 to 406 to 407 to 814 to 815
+Cost is: 7140.786003867706 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 408 to 816
+Cost is: 7956.786003867706 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 408 to 816 to 817
+Cost is: 7559.902890816512 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 408 to 409 to 818
+Cost is: 8377.902890816513 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 408 to 409 to 818 to 819
+Cost is: 7377.141955777001 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 205 to 410 to 820
+Cost is: 8197.141955777002 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 205 to 410 to 820 to 821
+Cost is: 7798.26588887294 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 205 to 410 to 411 to 822
+Cost is: 8620.26588887294 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 204 to 205 to 410 to 411 to 822 to 823
+Cost is: 7316.641189799158 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 412 to 824
+Cost is: 8140.641189799158 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 412 to 824 to 825
+Cost is: 7739.772134795904 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 412 to 413 to 826
+Cost is: 8565.772134795905 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 412 to 413 to 826 to 827
+Cost is: 7555.039264607011 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 207 to 414 to 828
+Cost is: 8383.03926460701 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 207 to 414 to 828 to 829
+Cost is: 7980.177187589519 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 207 to 414 to 415 to 830
+Cost is: 8810.17718758952 | 0 to 1 to 2 to 3 to 6 to 12 to 24 to 25 to 50 to 51 to 102 to 103 to 206 to 207 to 414 to 415 to 830 to 831
+Cost is: 7247.924791664045 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 416 to 832
+Cost is: 8079.924791664045 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 416 to 832 to 833
+Cost is: 7675.069659043776 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 416 to 417 to 834
+Cost is: 8509.069659043776 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 416 to 417 to 834 to 835
+Cost is: 7488.364583358717 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 209 to 418 to 836
+Cost is: 8324.364583358718 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 209 to 418 to 836 to 837
+Cost is: 7917.516361868936 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 209 to 418 to 419 to 838
+Cost is: 8755.516361868937 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 208 to 209 to 418 to 419 to 838 to 839
+Cost is: 7425.97513234193 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 420 to 840
+Cost is: 8265.97513234193 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 420 to 840 to 841
+Cost is: 7857.133789033111 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 420 to 421 to 842
+Cost is: 8699.13378903311 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 420 to 421 to 842 to 843
+Cost is: 7668.456242663921 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 211 to 422 to 844
+Cost is: 8512.45624266392 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 211 to 422 to 844 to 845
+Cost is: 8101.621744899227 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 211 to 422 to 423 to 846
+Cost is: 8947.621744899228 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 104 to 105 to 210 to 211 to 422 to 423 to 846 to 847
+Cost is: 7456.278572891737 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 424 to 848
+Cost is: 8304.278572891737 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 424 to 848 to 849
+Cost is: 7891.450888342593 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 424 to 425 to 850
+Cost is: 8741.450888342593 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 424 to 425 to 850 to 851
+Cost is: 7700.800611113853 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 213 to 426 to 852
+Cost is: 8552.800611113853 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 213 to 426 to 852 to 853
+Cost is: 8137.979707755595 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 213 to 426 to 427 to 854
+Cost is: 8991.979707755596 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 212 to 213 to 426 to 427 to 854 to 855
+Cost is: 7636.520368420301 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 428 to 856
+Cost is: 8492.5203684203 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 428 to 856 to 857
+Cost is: 8075.706214527915 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 428 to 429 to 858
+Cost is: 8933.706214527916 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 428 to 429 to 858 to 859
+Cost is: 7883.082951135966 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 215 to 430 to 860
+Cost is: 8743.082951135966 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 215 to 430 to 860 to 861
+Cost is: 8324.2755152799 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 215 to 430 to 431 to 862
+Cost is: 9186.2755152799 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 52 to 53 to 106 to 107 to 214 to 215 to 430 to 431 to 862 to 863
+Cost is: 7594.211218153149 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 432 to 864
+Cost is: 8458.211218153148 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 432 to 864 to 865
+Cost is: 8037.410469195202 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 432 to 433 to 866
+Cost is: 8903.410469195202 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 432 to 433 to 866 to 867
+Cost is: 7842.813969072577 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 217 to 434 to 868
+Cost is: 8710.813969072577 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 217 to 434 to 868 to 869
+Cost is: 8288.019876161872 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 217 to 434 to 435 to 870
+Cost is: 9158.019876161872 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 216 to 217 to 434 to 435 to 870 to 871
+Cost is: 7776.64090632236 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 436 to 872
+Cost is: 8648.64090632236 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 436 to 872 to 873
+Cost is: 8223.853438891383 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 436 to 437 to 874
+Cost is: 9097.853438891383 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 436 to 437 to 874 to 875
+Cost is: 8027.283456076222 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 219 to 438 to 876
+Cost is: 8903.283456076222 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 219 to 438 to 876 to 877
+Cost is: 8476.50258383693 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 219 to 438 to 439 to 878
+Cost is: 9354.50258383693 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 108 to 109 to 218 to 219 to 438 to 439 to 878 to 879
+Cost is: 7805.374105058583 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 440 to 880
+Cost is: 8685.374105058583 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 440 to 880 to 881
+Cost is: 8256.599797998599 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 440 to 441 to 882
+Cost is: 9138.599797998599 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 440 to 441 to 882 to 883
+Cost is: 8058.056091008827 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 221 to 442 to 884
+Cost is: 8942.056091008828 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 221 to 442 to 884 to 885
+Cost is: 8511.288319387688 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 221 to 442 to 443 to 886
+Cost is: 9397.288319387688 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 220 to 221 to 442 to 443 to 886 to 887
+Cost is: 7989.988253798627 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 444 to 888
+Cost is: 8877.988253798627 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 444 to 888 to 889
+Cost is: 8445.226988144103 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 444 to 445 to 890
+Cost is: 9335.226988144103 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 444 to 445 to 890 to 891
+Cost is: 8244.70931985614 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 223 to 446 to 892
+Cost is: 9136.70931985614 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 223 to 446 to 892 to 893
+Cost is: 8701.954530960627 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 223 to 446 to 447 to 894
+Cost is: 9595.954530960627 | 0 to 1 to 2 to 3 to 6 to 12 to 13 to 26 to 27 to 54 to 55 to 110 to 111 to 222 to 223 to 446 to 447 to 894 to 895
+Cost is: 7895.493413211373 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 448 to 896
+Cost is: 8791.493413211374 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 448 to 896 to 897
+Cost is: 8354.745072128342 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 448 to 449 to 898
+Cost is: 9252.745072128342 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 448 to 449 to 898 to 899
+Cost is: 8152.2532096601635 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 225 to 450 to 900
+Cost is: 9052.253209660164 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 225 to 450 to 900 to 901
+Cost is: 8613.511287700674 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 225 to 450 to 451 to 902
+Cost is: 9515.511287700674 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 224 to 225 to 450 to 451 to 902 to 903
+Cost is: 8082.288713588626 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 452 to 904
+Cost is: 8986.288713588627 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 452 to 904 to 905
+Cost is: 8545.553182317904 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 452 to 453 to 906
+Cost is: 9451.553182317904 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 452 to 453 to 906 to 907
+Cost is: 8341.086896916242 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 227 to 454 to 908
+Cost is: 9249.086896916242 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 227 to 454 to 908 to 909
+Cost is: 8806.357728150322 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 227 to 454 to 455 to 910
+Cost is: 9716.357728150322 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 112 to 113 to 226 to 227 to 454 to 455 to 910 to 911
+Cost is: 8109.436240793841 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 456 to 912
+Cost is: 9021.43624079384 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 456 to 912 to 913
+Cost is: 8576.713406596256 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 456 to 457 to 914
+Cost is: 9490.713406596256 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 456 to 457 to 914 to 915
+Cost is: 8370.272473527759 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 229 to 458 to 916
+Cost is: 9286.272473527759 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 229 to 458 to 916 to 917
+Cost is: 8839.555946206296 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 229 to 458 to 459 to 918
+Cost is: 9757.555946206296 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 228 to 229 to 458 to 459 to 918 to 919
+Cost is: 8298.409500500598 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 460 to 920
+Cost is: 9218.409500500598 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 460 to 920 to 921
+Cost is: 8769.69925260411 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 460 to 461 to 922
+Cost is: 9691.69925260411 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 460 to 461 to 922 to 923
+Cost is: 8561.283451050307 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 231 to 462 to 924
+Cost is: 9485.283451050307 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 231 to 462 to 924 to 925
+Cost is: 9034.57945536558 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 231 to 462 to 463 to 926
+Cost is: 9960.57945536558 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 56 to 57 to 114 to 115 to 230 to 231 to 462 to 463 to 926 to 927
+Cost is: 8247.034255485061 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 464 to 928
+Cost is: 9175.034255485061 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 464 to 928 to 929
+Cost is: 8722.336485033724 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 464 to 465 to 930
+Cost is: 9652.336485033724 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 464 to 465 to 930 to 931
+Cost is: 8511.945597989612 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 233 to 466 to 932
+Cost is: 9443.945597989612 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 233 to 466 to 932 to 933
+Cost is: 8989.25402602513 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 233 to 466 to 467 to 934
+Cost is: 9923.25402602513 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 232 to 233 to 466 to 467 to 934 to 935
+Cost is: 8438.18239278028 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 468 to 936
+Cost is: 9374.18239278028 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 468 to 936 to 937
+Cost is: 8917.49699278496 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 468 to 469 to 938
+Cost is: 9855.49699278496 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 468 to 469 to 938 to 939
+Cost is: 8705.130806961055 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 235 to 470 to 940
+Cost is: 9645.130806961055 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 235 to 470 to 940 to 941
+Cost is: 9186.451552643128 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 235 to 470 to 471 to 942
+Cost is: 10128.451552643128 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 116 to 117 to 234 to 235 to 470 to 471 to 942 to 943
+Cost is: 8463.729888409303 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 472 to 944
+Cost is: 9407.729888409303 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 472 to 944 to 945
+Cost is: 8947.056753700046 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 472 to 473 to 946
+Cost is: 9893.056753700046 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 472 to 473 to 946 to 947
+Cost is: 8732.715059427781 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 237 to 474 to 948
+Cost is: 9680.715059427781 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 237 to 474 to 948 to 949
+Cost is: 9218.048018478705 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 237 to 474 to 475 to 950
+Cost is: 10168.048018478705 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 236 to 237 to 474 to 475 to 950 to 951
+Cost is: 8657.049926471938 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 476 to 952
+Cost is: 9609.049926471938 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 476 to 952 to 953
+Cost is: 9144.388953651986 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 476 to 477 to 954
+Cost is: 10098.388953651986 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 476 to 477 to 954 to 955
+Cost is: 8928.071544792263 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 239 to 478 to 956
+Cost is: 9884.071544792263 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 239 to 478 to 956 to 957
+Cost is: 9417.416614685095 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 239 to 478 to 479 to 958
+Cost is: 10375.416614685095 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 28 to 29 to 58 to 59 to 118 to 119 to 238 to 239 to 478 to 479 to 958 to 959
+Cost is: 8564.417984806616 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 480 to 960
+Cost is: 9524.417984806616 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 480 to 960 to 961
+Cost is: 9055.769072207917 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 480 to 481 to 962
+Cost is: 10017.769072207917 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 480 to 481 to 962 to 963
+Cost is: 8837.475746062744 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 241 to 482 to 964
+Cost is: 9801.475746062744 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 241 to 482 to 964 to 965
+Cost is: 9330.83282597758 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 241 to 482 to 483 to 966
+Cost is: 10296.83282597758 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 240 to 241 to 482 to 483 to 966 to 967
+Cost is: 8759.907046467044 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 484 to 968
+Cost is: 9727.907046467044 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 484 to 968 to 969
+Cost is: 9255.270094107267 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 484 to 485 to 970
+Cost is: 10225.270094107267 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 484 to 485 to 970 to 971
+Cost is: 9035.000651334301 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 243 to 486 to 972
+Cost is: 10007.000651334301 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 243 to 486 to 972 to 973
+Cost is: 9532.369642115993 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 243 to 486 to 487 to 974
+Cost is: 10506.369642115993 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 120 to 121 to 242 to 243 to 486 to 487 to 974 to 975
+Cost is: 8783.841112628992 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 488 to 976
+Cost is: 9759.841112628992 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 488 to 976 to 977
+Cost is: 9283.216022169945 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 488 to 489 to 978
+Cost is: 10261.216022169945 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 488 to 489 to 978 to 979
+Cost is: 9060.97026669985 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 245 to 490 to 980
+Cost is: 10040.97026669985 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 245 to 490 to 980 to 981
+Cost is: 9562.351070817103 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 245 to 490 to 491 to 982
+Cost is: 10544.351070817103 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 244 to 245 to 490 to 491 to 982 to 983
+Cost is: 8981.496415447371 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 492 to 984
+Cost is: 9965.496415447371 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 492 to 984 to 985
+Cost is: 9484.883090154777 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 492 to 493 to 986
+Cost is: 10470.883090154777 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 492 to 493 to 986 to 987
+Cost is: 9260.660829111257 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 247 to 494 to 988
+Cost is: 10248.660829111257 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 247 to 494 to 988 to 989
+Cost is: 9766.05335061708 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 247 to 494 to 495 to 990
+Cost is: 10756.05335061708 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 60 to 61 to 122 to 123 to 246 to 247 to 494 to 495 to 990 to 991
+Cost is: 8920.992385172483 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 496 to 992
+Cost is: 9912.992385172483 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 496 to 992 to 993
+Cost is: 9428.39072987705 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 496 to 497 to 994
+Cost is: 10422.39072987705 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 496 to 497 to 994 to 995
+Cost is: 9202.191773499504 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 249 to 498 to 996
+Cost is: 10198.191773499504 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 249 to 498 to 996 to 997
+Cost is: 9711.595917992892 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 249 to 498 to 499 to 998
+Cost is: 10709.595917992892 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 248 to 249 to 498 to 499 to 998 to 999
+Cost is: 9120.811236836002 | 0 to 1 to 2 to 3 to 6 to 7 to 14 to 15 to 30 to 31 to 62 to 124 to 125 to 250 to 500 to 1000
